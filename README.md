@@ -53,7 +53,7 @@ The following models were tested and compared:
 - **R² (train):** 0.9830  
 - **MAE (test):** 0.0127  
 - **R² (test):** 0.9784  
-- **CV RMSE (mean):** 0.0214  
+- **CV RMSE (test):** 0.0214  
 
 ---
 
